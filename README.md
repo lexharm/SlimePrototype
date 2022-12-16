@@ -1,5 +1,6 @@
 # SlimePrototype
 Prototype of the mobile game Legend of Slime with basic mechanics.
+Gameplay video: https://youtube.com/shorts/QYBgofMR2xw?feature=share
 
 Реализовано:
 - Бесконечный забег синего слайма, на который нападают красные кубы.
